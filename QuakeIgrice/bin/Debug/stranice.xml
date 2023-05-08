@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfStranica xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Stranica>
+    <godinaIzdavanja>1996</godinaIzdavanja>
+    <naslov>naslov</naslov>
+    <slikaPutanja />
+    <rtfPutanja>rtf0.rtf</rtfPutanja>
+    <datumDodavanja>2023-03-30T22:45:42.2154695+02:00</datumDodavanja>
+    <cekiran>false</cekiran>
+  </Stranica>
+</ArrayOfStranica>

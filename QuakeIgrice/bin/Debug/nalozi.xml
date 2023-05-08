@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfKorisnik xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Korisnik>
+    <ime>admin</ime>
+    <sifra>adminsifra</sifra>
+    <tip>A</tip>
+  </Korisnik>
+  <Korisnik>
+    <ime>moco26</ime>
+    <sifra>moco26sifra</sifra>
+    <tip>K</tip>
+  </Korisnik>
+</ArrayOfKorisnik>
